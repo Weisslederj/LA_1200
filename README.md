@@ -1,8 +1,7 @@
 # LA_1200
 # Projekt-Dokumentation
 
-
-Beaber Jonah
+Beaver Jonah
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
