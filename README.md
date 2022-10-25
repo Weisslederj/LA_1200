@@ -5,7 +5,7 @@ Beaver Jonah
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|   25.10    | 0.0.1   | Gruppe gemacht und die ersten besprecungen/ planen und aufgaben aufteilen. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,14 +13,15 @@ Beaver Jonah
 
 ### 1.1 Ihr Projekt
 
-Ein Vokablen anbfragprogramm.
+Ein Vokablen Abfragprogramm.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |    Muss         |   F   | Als User will ich meine eigene übersetzung angeben könne z.B. Deutsch->Englisch |
+| 2    |    Muss         |   F   | ALs User will ich meine Wörter Ahnzal angebne können|
+| 3    |    Muss         |   Q   | Als User will ich die Falschen angaben nochmal lernen müssen beim übernächtsen wort kommt das Wort nochmals dran. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
