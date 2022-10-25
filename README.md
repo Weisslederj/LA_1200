@@ -6,7 +6,7 @@ Beaver Jonah
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   25.10    | 0.0.1   | Gruppe gemacht und die ersten besprecungen/ planen und aufgaben aufteilen. |
-|       | ...     |                                                              |
+|       | ...     |                                                             |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
